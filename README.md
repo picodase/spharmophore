@@ -1,1 +1,1 @@
-Structure-based pharmacophore ligand generator.
+ Structure-based pharmacophore and ligand family generator.
