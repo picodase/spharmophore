@@ -1,0 +1,2 @@
+- File will be processed using Python through-shell commands (e.g. grep).
+- Trajectory and file object parsing will be done with MDTraj.
